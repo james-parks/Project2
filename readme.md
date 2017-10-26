@@ -9,7 +9,7 @@ The Independent Electricity System Operator (IESO) operates and settles Onatrio'
 
 **The Goal: Develop a model that predicts energy demand based on weather, price and population data.**
 
-[Capstone Milestone Report: Notebook](https://github.com/james-parks/Project2/blob/master/CanadaEnergyUse.ipynb)
+[Capstone Milestone Report: Notebook](https://github.com/james-parks/Project2/blob/master/CapstoneMilestoneOntarioEnergyUse.ipynb)
 
 [Capstone Milestone Report: Final Paper](https://github.com/james-parks/Project2/blob/master/capstone_project_report_energy.pdf)
 
